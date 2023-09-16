@@ -1,6 +1,6 @@
 # Hotstar Frontend Clone Web App
 
-![Hotstar Logo](hotstar-logo.png)
+![Hotstar Logo](Hotstar Logo.webp)
 
 This repository contains a frontend clone of Hotstar, a popular streaming platform. The clone is built using [technologies/frameworks used].
 
